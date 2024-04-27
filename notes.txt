@@ -1,0 +1,6 @@
+content based movie recommendation system
+Note: .ipynb means interactive python notebook
+
+project overflow: 
+
+- data --> pre-processing(preparing the data according to us) --> model --> website ---> delop the website
